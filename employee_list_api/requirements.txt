@@ -1,4 +1,4 @@
-Django==2.1.4
+django>=2.2.25
 django-crispy-forms==1.7.2
 djangorestframework==3.9.1
 pillow>=8.3.2
